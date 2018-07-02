@@ -1,0 +1,15 @@
+= service-versions    
+
+Handy repository to compare what changed between http://micronaut.io[Micronaut] versions. 
+
+It compares http://micronaut.io[Micronaut] applications created with the CLI command: 
+
+`mn create-app example --profile=service` 
+
+or
+
+`mn create-app example` 
+
+Just compare across tags:
+
+* https://github.com/micronaut-profiles-versions/service-versions/compare/1.0.0.M1…1.0.0.M2[https://github.com/micronaut-profiles-versions/service-versions/compare/1.0.0.M1…1.0.0.M2]
